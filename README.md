@@ -25,9 +25,6 @@ Currently I'm oriented in web development but I'm interested in everything relat
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="html" width="45" height="55"/>
 </p>
 
-<br />
-<br />
-
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="_blank"> LinkedIn</a>
