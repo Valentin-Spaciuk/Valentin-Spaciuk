@@ -42,9 +42,8 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="blank"><img align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
-      alt="Valentin Spaciuk" height="30" width="40" /></a>
+  LinkedIn: 
+  <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="blank"><img align="center" alt="Valentin Spaciuk" height="30" width="40" /></a>
 </p>
 
 -----
