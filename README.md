@@ -48,12 +48,12 @@ Currently I'm oriented in web development but I'm interested in everything relat
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="_blank"> LinkedIn: Valentín Spaciuk</a>
+  <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="_blank"> LinkedIn</a>
 </p>
 
 -----
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=valentin-spaciuk&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=valentin-spaciuk&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   
   <br>
   <br>
