@@ -43,7 +43,7 @@
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/valentin-spaciuk/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"
       alt="Valentin Spaciuk" height="30" width="40" /></a>
 </p>
 
