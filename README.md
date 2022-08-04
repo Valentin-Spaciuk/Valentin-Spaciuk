@@ -43,7 +43,7 @@
 ## Connect with me:
 <p align="left">
   LinkedIn: 
-  <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="blank"><img align="center" alt="Valentin Spaciuk" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="blank"> </a>
 </p>
 
 -----
