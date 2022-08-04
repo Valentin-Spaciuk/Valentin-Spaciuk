@@ -8,7 +8,7 @@ At the age of 19, I decided to change my career to work in the IT field and it w
 Currently I'm oriented in web development but I'm interested in everything related to computers and mathematics.
 
 
-## Some tools I use
+## Tools
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
@@ -16,6 +16,13 @@ Currently I'm oriented in web development but I'm interested in everything relat
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="45" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="html" width="45" height="55"/>
 </p>
 
 <br />
