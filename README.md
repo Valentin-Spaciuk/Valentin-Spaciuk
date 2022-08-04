@@ -42,8 +42,7 @@
 
 ## Connect with me:
 <p align="left">
-  LinkedIn: 
-  <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="blank"> </a>
+  <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="blank"> LinkedIn: Valentín Spaciuk</a>
 </p>
 
 -----
