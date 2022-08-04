@@ -8,11 +8,9 @@ At the age of 19, I decided to change my career to work in the IT field and it w
 Currently I'm oriented in web development but I'm interested in everything related to computers and mathematics.
 
 
-## My tech stack
+## My tools
 
 <p align="left"> 
-
-  
   <a> 
     <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
   </a> 
