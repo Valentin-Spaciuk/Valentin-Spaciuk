@@ -3,27 +3,9 @@ Since I was a kid I have always been interested in how video games are created, 
 
 In 2019 I got intrigued by programming and started doing web development projects just for fun while studying economics. Then I found problem-solving skills to be so much fun that I kept learning more and more.
 
-At the age of 19, I decided to change my career to work in the IT field and it was the best decision I made, because every day I enjoy solving problems by thinking outside the box.
+At the age of 19, I decided to change my career to work in the IT field and it was the best decision I made, because every day I enjoy solving problems by thinking outside the box. 
 
-Currently I'm oriented in web development but I'm interested in everything related to computers and mathematics.
-
-
-## Tools
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-official.svg" alt="css" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="html" width="45" height="55"/>
-</p>
+I am currently studying <a href="https://github.com/ossu/computer-science" target="_blank">Computer Science at Open Source Society University</a>
 
 ## Connect with me:
 <p align="left">
