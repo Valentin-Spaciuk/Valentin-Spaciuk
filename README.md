@@ -5,7 +5,7 @@ In 2019 I got intrigued by programming and started doing web development project
 
 At the age of 19, I decided to change my career to work in the IT field and it was the best decision I made, because every day I enjoy solving problems by thinking outside the box. 
 
-I am currently studying <a href="https://github.com/ossu/computer-science" target="_blank">Computer Science at Open Source Society University</a>
+I am currently studying <a href="https://github.com/ossu/computer-science" target="_blank">Computer Science at Open Source Society University.</a>
 
 ## Connect with me:
 <p align="left">
