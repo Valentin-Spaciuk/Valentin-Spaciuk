@@ -11,5 +11,4 @@ I am currently studying <a href="https://github.com/ossu/computer-science" targe
 <p align="left">
   <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="_blank"> LinkedIn</a>
 </p>
-  <br>
- </p>
+
