@@ -11,11 +11,5 @@ I am currently studying <a href="https://github.com/ossu/computer-science" targe
 <p align="left">
   <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="_blank"> LinkedIn</a>
 </p>
-
------
-<p align="center">
-  <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=valentin-spaciuk&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  
-  <br>
   <br>
  </p>
