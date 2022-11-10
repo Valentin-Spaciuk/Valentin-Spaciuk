@@ -11,5 +11,3 @@ I am currently studying <a href="https://github.com/ossu/computer-science" targe
 <p align="left">
   <a href="https://www.linkedin.com/in/valentin-spaciuk/" target="_blank"> LinkedIn</a>
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentin-Spaciuk)](https://github.com/Valentin-Spaciuk/github-readme-stats)
