@@ -5,7 +5,7 @@ In 2019 I got intrigued by programming and started doing web development project
 
 At the age of 19, I decided to change my career to work in the IT field and it was the best decision I made, because every day I enjoy solving problems by thinking outside the box. 
 
-I am currently studying Functional Analysis of Computer Systems.
+I am currently working on the creation and maintenance of RESTful APIs for banking applications, utilizing the Java Spring Boot framework in a bank software architecture team while finishing my studies on Functional Analysis of Computer Systems.
 
 ## Connect with me:
 <p align="left">
